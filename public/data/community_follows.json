@@ -1,0 +1,76 @@
+{
+    "response": "success",
+    "message": "Datos obtenidos",
+    "data": [
+        {
+            "ID": "47",
+            "NOMBRE": "Ing. Ramiro L\u00f3pez Serrano",
+            "USUARIO": "InL",
+            "EMAIL": "ramiro.lopez@clevercloud.mx",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "17",
+            "NOMBRE": "Tanya Gonzalez",
+            "USUARIO": "Tany",
+            "EMAIL": "gonzalezabrahamtanya@gmail.com",
+            "BIOGRAFIA": "Creo en el poder de los intereses compartidos para crear conexiones aut\u00e9nticas",
+            "FOTO_PERFIL": "2025051409131742f18e06dc7a37e1e725a4c006ab8a6b.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "95",
+            "NOMBRE": "isaura",
+            "USUARIO": "isaurav",
+            "EMAIL": "isauravpr@gmail.com",
+            "BIOGRAFIA": "Me gusta los animales, los \u00e1rboles, las pel\u00edculas, anime, mangas, libros, tambi\u00e9n me gusta cocinar ",
+            "FOTO_PERFIL": "20250528002232fb8f338cbb98eaf97f4d0882c39a0e9e.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "45",
+            "NOMBRE": "Marcos Pool",
+            "USUARIO": "marcosd59",
+            "EMAIL": "damian.marcospool@gmail.com",
+            "BIOGRAFIA": "Soy desarrollador de software, pero cuando no estoy picando c\u00f3digo, probablemente me encuentres viendo anime o jugando videojuegos. ",
+            "FOTO_PERFIL": "20250322075821c9cabb433bcf98875fe100194ff4aaae.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "29",
+            "NOMBRE": "Ana Mar\u00eda Mart\u00ednez",
+            "USUARIO": "AnaMaria",
+            "EMAIL": "martinez.anamaria0626@gmail.com",
+            "BIOGRAFIA": "Hola soy Ana. Me gusta leer y escribir cuentos, fabulas, algunos temas de mi inter\u00e9s, sobre pel\u00edculas, libros y arte. ",
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "42",
+            "NOMBRE": "ANAHI ALVAREZ",
+            "USUARIO": "anahialva",
+            "EMAIL": "alvarezholguin4@gmail.com",
+            "BIOGRAFIA": "Estudiante de desarrollo de software multiplataforma. Comparto recursos sobre programaci\u00f3n, experiencias en el mundo tech y reflexiones sobre salud mental en la vida digital.",
+            "FOTO_PERFIL": "20250416171928005ef96bcd52447fa5e6f53fd2d50dc0.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "55",
+            "NOMBRE": "Adriel E. Lorenzo",
+            "USUARIO": "Alorenzo",
+            "EMAIL": "alorenzoporras@gmail.com",
+            "BIOGRAFIA": "Hola soy un alumno del TEC de Pachuca, Estudiante de TICS ",
+            "FOTO_PERFIL": "202504091717563146a3f41281ae6c9fdf190df6e56061.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "response": "success",
+    "message": "Datos obtenidos",
+    "data": {
+        "ID": "57",
+        "ID_INSTANCIA": "139",
+        "NOMBRE": "Angel M. Medina",
+        "EMAIL": "ammcardenas@hotmail.com",
+        "FECHA_CREACION": "2025-04-16 14:40:14",
+        "BIOGRAFIA": "Apasionado por los videojuegos, la tecnolog\u00eda y fan de piol\u00edn desde el a\u00f1o 1942.",
+        "USUARIO": "Angelmmc",
+        "FOTO_PERFIL": "202505131453221e7f5ad1c03ba600e52da3af0a7d17a3.png"
+    }
+}

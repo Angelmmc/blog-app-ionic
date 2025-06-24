@@ -1,0 +1,14 @@
+{
+    "response": "success",
+    "message": "Datos obtenidos",
+    "data": {
+        "ID": "57",
+        "ID_INSTANCIA": "1",
+        "NOMBRE": "User dummy",
+        "EMAIL": "example@hotmail.com",
+        "FECHA_CREACION": "2025-04-16 14:40:14",
+        "BIOGRAFIA": "Perfil de pruebas gracias por probar mi aplicacion",
+        "USUARIO": "DummyTest",
+        "FOTO_PERFIL": "jfdklfjdflsk.png"
+    }
+}

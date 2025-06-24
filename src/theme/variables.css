@@ -1,0 +1,93 @@
+
+:root {
+  /* Colores base que no cambian */
+  --ion-color-danger: #F87897;
+  --ion-color-success: #179ace;
+  --ion-color-success-contrast: white;
+  
+  /* Variables para el tema oscuro (predeterminado) */
+  --ion-background-color: #363636; /* Color gris como en pagina-inicio.vue */
+  --ion-background-color-rgb: 54, 54, 54;
+  --ion-text-color: #FFFFFF;
+  --ion-text-color-rgb: 255, 255, 255;
+  --ion-toolbar-background: #363636; /* Mismo color que el fondo */
+  --ion-item-background: #363636;
+  --ion-card-background: #363636;
+  --ion-border-color: #3d3d3d;
+  
+  /* Variables específicas de la app - modo oscuro por defecto */
+  --app-background: #363636;
+  --app-text-color: #FFFFFF;
+  --app-card-1-bg: #585656;  /* Color gris oscuro para tarjetas tipo 1 */
+  --app-card-2-bg: #E9EAE4;  /* Color claro para tarjetas tipo 2 */
+  --app-card-3-bg: #E19693;  /* Color rosado para tarjetas tipo 3 */
+}
+
+
+:root.light {
+  /* Mantener colores base */
+  --ion-color-danger: #F87897;
+  --ion-color-success: #179ace;
+  --ion-color-success-contrast: white;
+  
+  --ion-background-color: #E9EAE4; 
+  --ion-background-color-rgb: 254, 255, 250;
+  --ion-text-color: #121212;      /* Texto oscuro en tema claro */
+  --ion-text-color-rgb: 18, 18, 18;
+  --ion-item-background: #E9EAE4; 
+  --ion-card-background: #E9EAE4; 
+  --ion-border-color: #d7d7d7;
+  /* Toolbar también cambia en tema claro */
+  --ion-toolbar-background: #E9EAE4;
+  
+  /* Variables específicas de la app - modo claro */
+  --app-background: #E9EAE4;
+  --app-text-color: #121212;
+  --app-card-1-bg: #666666;  /* Color gris para tarjetas tipo 1 */
+  --app-card-2-bg: #E9EAE4;  /* Color claro para tarjetas tipo 2 */
+  --app-card-3-bg: #E19693;  /* Color rosado para tarjetas tipo 3 */
+}
+
+/* Fuentes */
+@font-face {
+  font-family: 'Roboto';
+  src: url('/src/assets/fonts/Roboto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Serif';
+  src: url('/src/assets/fonts/RobotoSerif.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Serif Bold';
+  src: url('/src/assets/fonts/RobotoSerif.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tinos';
+  src: url('/src/assets/fonts/Tinos-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+  @font-face {
+    font-family: 'Monserrat';
+    src: url('/src/assets/fonts/Montserrat.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /* Estilo para el subrayado de textos en un blog */
+ .highlight {
+  background-color: #685150;
+  border-radius: 3px;
+  padding: 1px 3px;
+  color: white;
+}

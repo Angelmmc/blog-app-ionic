@@ -1,0 +1,756 @@
+{
+    "response": "success",
+    "message": "Datos obtenidos",
+    "data": [
+        {
+            "ID": "2",
+            "NOMBRE": "Josue Manuel Dimas Ramos",
+            "USUARIO": "josuemdr",
+            "EMAIL": "josuemanuel2106@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": null
+        },
+        {
+            "ID": "47",
+            "NOMBRE": "Ing. Ramiro L\u00f3pez Serrano",
+            "USUARIO": "InL",
+            "EMAIL": "ramiro.lopez@clevercloud.mx",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "17",
+            "NOMBRE": "Tanya Gonzalez",
+            "USUARIO": "Tany",
+            "EMAIL": "gonzalezabrahamtanya@gmail.com",
+            "BIOGRAFIA": "Creo en el poder de los intereses compartidos para crear conexiones aut\u00e9nticas",
+            "FOTO_PERFIL": "2025051409131742f18e06dc7a37e1e725a4c006ab8a6b.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "60",
+            "NOMBRE": "miguel",
+            "USUARIO": "casinada",
+            "EMAIL": "focusgruop151@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "66",
+            "NOMBRE": "Armando Ruiz",
+            "USUARIO": "ArmandoRuiz",
+            "EMAIL": "armando.ruiz.rojas@gmail.com",
+            "BIOGRAFIA": "Compartiendo reflexiones de la vida, los libros, los medios y las pel\u00edculas.",
+            "FOTO_PERFIL": "202504301037078c664f49f25b8837c7353140b977c2a0.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "11",
+            "NOMBRE": "oscar",
+            "USUARIO": "oscarCR",
+            "EMAIL": "oscar@loco.agency",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "24",
+            "NOMBRE": "wifiroh",
+            "USUARIO": "wifiroh578",
+            "EMAIL": "wifiroh578@operades.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "81",
+            "NOMBRE": "Alonso Guzman",
+            "USUARIO": "AlfiGuzman",
+            "EMAIL": "alonsoguzman53@gmail.com",
+            "BIOGRAFIA": "Escritor histrionico, poeta o enfermo mental? Solo el d\u00eda lo dir\u00e1\u2026",
+            "FOTO_PERFIL": "202504291642227e95a34400d78990478600d870229991.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "23",
+            "NOMBRE": "Mike",
+            "USUARIO": "quiensoy",
+            "EMAIL": "migueloyo@yahoo.com.mx",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "94",
+            "NOMBRE": "Milena Fonseca",
+            "USUARIO": "milenafonseca30",
+            "EMAIL": "milenafonsecaduran30@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "12",
+            "NOMBRE": "Manuel Camacho",
+            "USUARIO": "manolo5516",
+            "EMAIL": "manuel.mkt123@gmail.com",
+            "BIOGRAFIA": "Soy una persona activa y apasionada por el deporte, que disfruta escribir para expresar mis pensamientos cr\u00edticos sobre mis experiencias. Me encanta descubrir nuevos lugares y conectar con personas distintas.",
+            "FOTO_PERFIL": "20250521105457f7bc5b029f52d39306bc3607c0927986.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "21",
+            "NOMBRE": "Hip\u00f3lito Ruiz",
+            "USUARIO": "polo",
+            "EMAIL": "polo.ruiz.theone@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "46",
+            "NOMBRE": "Mari Paz Santos",
+            "USUARIO": "MaSa250304",
+            "EMAIL": "maripaz25santos@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "8",
+            "NOMBRE": "Emprendedor",
+            "USUARIO": "janavarro3",
+            "EMAIL": "blogdejoseantonio@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "50",
+            "NOMBRE": "Rene Fujiwara (Fuji)",
+            "USUARIO": "ReFu250316",
+            "EMAIL": "fujiwara311@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "65",
+            "NOMBRE": "Manu",
+            "USUARIO": "Manu",
+            "EMAIL": "ml.urquidez07@gmail.com",
+            "BIOGRAFIA": "Hola, me gustan las pel\u00edculas de fantas\u00eda y escuchar m\u00fasica de jazz.",
+            "FOTO_PERFIL": "202505221911557007c8060c23f4e2dd6a99b9aad1c8ed.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "44",
+            "NOMBRE": "Anahi Holguin",
+            "USUARIO": "AnHo250227",
+            "EMAIL": "holguinanahi959@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "95",
+            "NOMBRE": "isaura",
+            "USUARIO": "isaurav",
+            "EMAIL": "isauravpr@gmail.com",
+            "BIOGRAFIA": "Me gusta los animales, los \u00e1rboles, las pel\u00edculas, anime, mangas, libros, tambi\u00e9n me gusta cocinar ",
+            "FOTO_PERFIL": "20250528002232fb8f338cbb98eaf97f4d0882c39a0e9e.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "73",
+            "NOMBRE": "Liora Arditti",
+            "USUARIO": "lioral",
+            "EMAIL": "l_arditi@hotmail.com",
+            "BIOGRAFIA": "Mercad\u00f3loga, bibli\u00f3fila y lect\u00f3mana. Docente comprometida con formar l\u00edderes que sean agentes de cambio en la sociedad. ",
+            "FOTO_PERFIL": "20250429112011b93331991e35e98492d2b3d598692fda.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "85",
+            "NOMBRE": "Paula ",
+            "USUARIO": "pauprz",
+            "EMAIL": "pau.prz1905@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "33",
+            "NOMBRE": "Josu\u00e9",
+            "USUARIO": "Josuconacento",
+            "EMAIL": "montalvanzavala@gmail.com",
+            "BIOGRAFIA": "Hola soy Josu, me gusta la tecnologia y la innovaci\u00f3n Hola soy Josu, me gusta la tecnologia y la innovaci\u00f3n ",
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "6",
+            "NOMBRE": "Miguel Loyo",
+            "USUARIO": "morelejaviva",
+            "EMAIL": "loyomiguel1111@gmail.com",
+            "BIOGRAFIA": "Actor y fot\u00f3grafo, tomo \r\n la lectura como un modo de evadir este mundo ca\u00f3tico, en la escritura me pierdo",
+            "FOTO_PERFIL": "20250422124053c5c26de3e30705cfede48ccc73f18dcf.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "10",
+            "NOMBRE": "Jonathan Brigido Perez",
+            "USUARIO": "jhon2801",
+            "EMAIL": "jon5644568@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "49",
+            "NOMBRE": "Adria Ordaz Brunner",
+            "USUARIO": "AdriaOrdaz",
+            "EMAIL": "adria.ordaz@icloud.com",
+            "BIOGRAFIA": "Apasionada por la vida, el amor y el MKT \u00e9tico. Eterna aprendiz.",
+            "FOTO_PERFIL": "202504291101470e10d5ff96a7bed0465e7b99400844af.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "45",
+            "NOMBRE": "Marcos Pool",
+            "USUARIO": "marcosd59",
+            "EMAIL": "damian.marcospool@gmail.com",
+            "BIOGRAFIA": "Soy desarrollador de software, pero cuando no estoy picando c\u00f3digo, probablemente me encuentres viendo anime o jugando videojuegos. ",
+            "FOTO_PERFIL": "20250322075821c9cabb433bcf98875fe100194ff4aaae.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "29",
+            "NOMBRE": "Ana Mar\u00eda Mart\u00ednez",
+            "USUARIO": "AnaMaria",
+            "EMAIL": "martinez.anamaria0626@gmail.com",
+            "BIOGRAFIA": "Hola soy Ana. Me gusta leer y escribir cuentos, fabulas, algunos temas de mi inter\u00e9s, sobre pel\u00edculas, libros y arte. ",
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "41",
+            "NOMBRE": "Ing. Tanya Gonz\u00e1lez",
+            "USUARIO": "InGo250221",
+            "EMAIL": "tanya.gonzalez@clevercloud.mx",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "70",
+            "NOMBRE": "Edmundo Santamar\u00eda G\u00f3mez ",
+            "USUARIO": "Ilustrasage",
+            "EMAIL": "ilustrasage@gmail.com",
+            "BIOGRAFIA": "Soy ilustrador y de vez en cuando escribo. Tengo algunos cuentos publicados.\n",
+            "FOTO_PERFIL": "20250502185158ce01b5f52e1259d7b4a3f9f502c885ef.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "40",
+            "NOMBRE": "Tatiana Guti\u00e9rrez",
+            "USUARIO": "Gurumats",
+            "EMAIL": "gurumats@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "72",
+            "NOMBRE": "Adry Gregorio",
+            "USUARIO": "adry_gregorio",
+            "EMAIL": "lunadry@gmail.com",
+            "BIOGRAFIA": "Leer es una pasi\u00f3n heredada. Mi primer acercamiento con la lectura fue la biblioteca de mi abuelo. \nAmo la m\u00fasica, el cine, el vino y los gatos. ",
+            "FOTO_PERFIL": "2025042912155726fa7faa9334defcaa32bed5259235b6.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "86",
+            "NOMBRE": "Wendy Morales ",
+            "USUARIO": "wendymorales1",
+            "EMAIL": "yaelmora12@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "78",
+            "NOMBRE": "Alonso Guzman",
+            "USUARIO": "AlfGuzman",
+            "EMAIL": "alonsoguzman53@gmail.om",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "57",
+            "NOMBRE": "Angel M. Medina",
+            "USUARIO": "Angelmmc",
+            "EMAIL": "ammcardenas@hotmail.com",
+            "BIOGRAFIA": "Apasionado por los videojuegos, la tecnolog\u00eda y fan de piol\u00edn desde el a\u00f1o 1942.",
+            "FOTO_PERFIL": "202505131453221e7f5ad1c03ba600e52da3af0a7d17a3.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "37",
+            "NOMBRE": "Mari Paz Santos",
+            "USUARIO": "maripaz",
+            "EMAIL": "maripaz17santos@gmai.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "9",
+            "NOMBRE": "per",
+            "USUARIO": "perlo",
+            "EMAIL": "perlac21lacunza@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "82",
+            "NOMBRE": "Isa Vel\u00e1zquez",
+            "USUARIO": "IzzaMoss",
+            "EMAIL": "suisavela89@gmail.com",
+            "BIOGRAFIA": "Comunic\u00f3loga, escritora. Es complicado resumir lo que una persona puede ser en un par de palabras... Es por eso que existe la poes\u00eda.",
+            "FOTO_PERFIL": "20250430074946baad3072b1293c72640decc1b2564f12.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "87",
+            "NOMBRE": "Jorge Hern\u00e1n",
+            "USUARIO": "Jorkhen4",
+            "EMAIL": "jorgehernanxmap@gmail.com",
+            "BIOGRAFIA": "Actor, dramaturgo y director con casi 30 a\u00f1os de experiencia esc\u00e9nica. Nacido en la ciudad de M\u00e9xico, desde muy joven comenz\u00f3 a sentir la inclinaci\u00f3n hacia el arte, la m\u00fasica, el baile, el canto, la literatura y por \u00faltimo fue escogido por las artes ",
+            "FOTO_PERFIL": "2025042918594014e5993de69099291a91af4da844dff9.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "64",
+            "NOMBRE": "Hugo Herrera",
+            "USUARIO": "Huguin",
+            "EMAIL": "pepechu159@gmail.com",
+            "BIOGRAFIA": "Ingeniero apasionado por la tecnolog\u00eda y la innovaci\u00f3n. Me gusta compartir conocimientos a trav\u00e9s de art\u00edculos claros y accesibles sobre desarrollo de software, computaci\u00f3n en la nube y tendencias tecnol\u00f3gicas.",
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "84",
+            "NOMBRE": "Ale Roma",
+            "USUARIO": "aleroma_",
+            "EMAIL": "alejandro.alroma@gmail.com",
+            "BIOGRAFIA": "Recorro la ciudad en mi bicicleta. \n\nFan de las carcajadas, las cantinas y los conciertos.",
+            "FOTO_PERFIL": "20250429191547273780cbb8ff7512fbdc852312ef5495.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "75",
+            "NOMBRE": "Paulina Gachuz",
+            "USUARIO": "itsmepaulinagachuz",
+            "EMAIL": "paugachuzm@gmail.com",
+            "BIOGRAFIA": "Soy adicta al caf\u00e9 y a los libros. Amo la musica, las pel\u00edculas. Mi libro favorito es Magnolia Parks. ",
+            "FOTO_PERFIL": "20250429120659b219d76021010f22e3edd996f2a39b97.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "76",
+            "NOMBRE": "Elisa Gonz\u00e1lez ",
+            "USUARIO": "ElisaGonFi",
+            "EMAIL": "gonzalezelisa827@gmail.com",
+            "BIOGRAFIA": "Terapueta Ayurveda, dise\u00f1o Humano y claves gen\u00e9ticas. Apacionada por el bienestar",
+            "FOTO_PERFIL": "202504291628035cfdecfec284c6d65c9cc0e45337b84b.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "79",
+            "NOMBRE": "Yazmin Casta\u00f1eda",
+            "USUARIO": "jazmineci",
+            "EMAIL": "jazmineci2.0@gmail.com",
+            "BIOGRAFIA": "Me gusta escribir lo que siento y compartirlo por si alguien se siente igual",
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "59",
+            "NOMBRE": "Maria fernanda",
+            "USUARIO": "ferrrh",
+            "EMAIL": "fernandahdez137@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "77",
+            "NOMBRE": "Emmanuel Gavira",
+            "USUARIO": "esgavira",
+            "EMAIL": "gaviraemmanuel@gmail.com",
+            "BIOGRAFIA": "Director de fotograf\u00eda y actor. Apasionado del debate. Lector por curiosidad.",
+            "FOTO_PERFIL": "202504291621077d4b092614e022db13b271dd57f4427c.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "36",
+            "NOMBRE": "Ra\u00fal Aranda Sanchez",
+            "USUARIO": "Raulitoz",
+            "EMAIL": "ppcenlinea@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "51",
+            "NOMBRE": "rami",
+            "USUARIO": "ramiro34565",
+            "EMAIL": "ramiro30565@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "42",
+            "NOMBRE": "ANAHI ALVAREZ",
+            "USUARIO": "anahialva",
+            "EMAIL": "alvarezholguin4@gmail.com",
+            "BIOGRAFIA": "Estudiante de desarrollo de software multiplataforma. Comparto recursos sobre programaci\u00f3n, experiencias en el mundo tech y reflexiones sobre salud mental en la vida digital.",
+            "FOTO_PERFIL": "20250416171928005ef96bcd52447fa5e6f53fd2d50dc0.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "7",
+            "NOMBRE": "Manuel",
+            "USUARIO": "Manuel123",
+            "EMAIL": "manuel@pollo.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "30",
+            "NOMBRE": "Cecilia ",
+            "USUARIO": "Cemapi",
+            "EMAIL": "cecimapi@hotmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "58",
+            "NOMBRE": "Polo Ruiz G.",
+            "USUARIO": "poloruiz",
+            "EMAIL": "hipolito.ruiz@clevercloud.mx",
+            "BIOGRAFIA": "Polo Ruiz es fundador de Clever Cloud, donde ayuda a empresas a crecer usando tecnolog\u00eda: desarrollo de software, e-commerce, automatizaci\u00f3n de procesos y estrategias digitales. Apasionado por la innovaci\u00f3n y la transformaci\u00f3n empresarial.",
+            "FOTO_PERFIL": "202504281839130c8057c7c1b5290ce354ed1cf53f647f.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "39",
+            "NOMBRE": "Mari Paz Santos",
+            "USUARIO": "maripazsant",
+            "EMAIL": "maripaz17santos@gmail.com",
+            "BIOGRAFIA": " Hola hola hola Me gusta dormir, ver series y leer (seg\u00fan). ",
+            "FOTO_PERFIL": "202412191233558701c25ebd866891087f760ab55f841e.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "98",
+            "NOMBRE": "Pamela ",
+            "USUARIO": "pambortolini",
+            "EMAIL": "pamela.bortolini@empresasgb.mx",
+            "BIOGRAFIA": "Amo leer, bailar, hacer yoga y calistenia, amar sobre todas las cosas,  probando que tal se me da la escritura\u2026 ",
+            "FOTO_PERFIL": "20250618114542175a08231f1fbacb9e75040a2eb6b121.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "22",
+            "NOMBRE": "Daniel the Crown",
+            "USUARIO": "dancorona",
+            "EMAIL": "daniel.corona@clevercloud.mx",
+            "BIOGRAFIA": "Wassaaap je suis Daniel de M\u00e9xico City y como muchos tacous",
+            "FOTO_PERFIL": "20250513134213551708b2b515a1f292d9cf7a9556d3d1.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "71",
+            "NOMBRE": "Am\u00e9rica ",
+            "USUARIO": "Mekara",
+            "EMAIL": "mekara1981@gmail.com",
+            "BIOGRAFIA": "Me encanta leer,ver pel\u00edculas,la comida.\nMi libro favorito desde los 10 a\u00f1os es The Secret Garden.\nChef.",
+            "FOTO_PERFIL": "20250429120511af9c10cc9ee0f5c47c512f4355eea036.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "62",
+            "NOMBRE": "miguel",
+            "USUARIO": "casinada",
+            "EMAIL": "focusgroup151@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "43",
+            "NOMBRE": "Neshme Marquez",
+            "USUARIO": "neshme",
+            "EMAIL": "holguinneshme@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "68",
+            "NOMBRE": "Monserrat",
+            "USUARIO": "monseps11",
+            "EMAIL": "monseps11@hotmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "67",
+            "NOMBRE": "Monserrat",
+            "USUARIO": "monseps11",
+            "EMAIL": "monseps11@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "99",
+            "NOMBRE": "Bern Schroeder ",
+            "USUARIO": "bernschr",
+            "EMAIL": "grumos-dispuestos.5r@icloud.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "3",
+            "NOMBRE": "Jose Alfredo",
+            "USUARIO": "alfred",
+            "EMAIL": "alfredgua43@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "88",
+            "NOMBRE": "Aldo Nicolai",
+            "USUARIO": "aldonicolai",
+            "EMAIL": "anicolai.94@gmail.com",
+            "BIOGRAFIA": "Periodista, fot\u00f3grafo y viajero. Un poco n\u00f3mada. Aficionado al cine y el caf\u00e9. ",
+            "FOTO_PERFIL": "202504291904308962aeca4930548cc4cbd9075f06f914.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "14",
+            "NOMBRE": "Fernando Flores",
+            "USUARIO": "fernando_flores",
+            "EMAIL": "emilianoflores0708@gmail.com",
+            "BIOGRAFIA": "Soy un Full Stack Developer apasionado por la tecnolog\u00eda, siempre en busca de nuevas oportunidades para aprender y crecer. Tengo experiencia en el desarrollo de aplicaciones escalables y en la gesti\u00f3n de proyectos, con un enfoque",
+            "FOTO_PERFIL": "20241112181123c7ebac27b27f874e829c3f650194beb1.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "97",
+            "NOMBRE": "Sofia",
+            "USUARIO": "Sma",
+            "EMAIL": "sofiaalvarez780@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "19",
+            "NOMBRE": "Hector Adair",
+            "USUARIO": "HectorAdair",
+            "EMAIL": "hectoradairjimenez@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "4",
+            "NOMBRE": "Josue Manuel Dimas Ramos",
+            "USUARIO": "josuedimas21",
+            "EMAIL": "Josuemanuel2106@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "38",
+            "NOMBRE": "Alberto Ojeda",
+            "USUARIO": "oalbertom99",
+            "EMAIL": "oalbertom_99@hotmail.com",
+            "BIOGRAFIA": "Hola! Soy un apasionado del deporte y de la pol\u00edtica mexicana. ",
+            "FOTO_PERFIL": "202412161903186bc00696daf2ba32808bcad589447b69.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "31",
+            "NOMBRE": "",
+            "USUARIO": "dsd",
+            "EMAIL": "ddsd@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "34",
+            "NOMBRE": "bafam56362",
+            "USUARIO": "bafam56362",
+            "EMAIL": "bafam56362@iminko.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "35",
+            "NOMBRE": "Olivo",
+            "USUARIO": "Olivo",
+            "EMAIL": "lopeolivo38@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "55",
+            "NOMBRE": "Adriel E. Lorenzo",
+            "USUARIO": "Alorenzo",
+            "EMAIL": "alorenzoporras@gmail.com",
+            "BIOGRAFIA": "Hola soy un alumno del TEC de Pachuca, Estudiante de TICS ",
+            "FOTO_PERFIL": "202504091717563146a3f41281ae6c9fdf190df6e56061.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "52",
+            "NOMBRE": "Mari Mari ",
+            "USUARIO": "Marimari",
+            "EMAIL": "marimar11_@hotmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "26",
+            "NOMBRE": "Miguel",
+            "USUARIO": "quiensabe",
+            "EMAIL": "makerting@empresasgb.mx",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "5",
+            "NOMBRE": "Sergio Brondo",
+            "USUARIO": "sbrondo",
+            "EMAIL": "sbrondo99@gmail.com",
+            "BIOGRAFIA": "Fundador de nada. Me gusta escribir de pol\u00edtica, negocios, deportes, series y pel\u00edculas y todo lo que se me vaya ocurriendo.",
+            "FOTO_PERFIL": "2024110617353821e669ee657052e3919ee5efee12680a.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "63",
+            "NOMBRE": "Adriel E. Lorenzo Porras",
+            "USUARIO": "Alorenzoeli",
+            "EMAIL": "alorenzoeli@hotmail.com",
+            "BIOGRAFIA": "Hola, soy un lector aficionado de los relatos de terror y suspenso ",
+            "FOTO_PERFIL": "2025042908243925a3f10b150d129e5a222bf8edd1cca6.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "101",
+            "NOMBRE": "Zuri",
+            "USUARIO": "Zury",
+            "EMAIL": "zurisabdai.nunez@iest.edu.mx",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        }
+    ]
+}

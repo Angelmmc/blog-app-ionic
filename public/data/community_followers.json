@@ -1,0 +1,46 @@
+{
+    "response": "success",
+    "message": "Datos obtenidos",
+    "data": [
+        {
+            "ID": "44",
+            "NOMBRE": "Anahi Holguin",
+            "USUARIO": "AnHo250227",
+            "EMAIL": "holguinanahi959@gmail.com",
+            "BIOGRAFIA": null,
+            "FOTO_PERFIL": null,
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "95",
+            "NOMBRE": "isaura",
+            "USUARIO": "isaurav",
+            "EMAIL": "isauravpr@gmail.com",
+            "BIOGRAFIA": "Me gusta los animales, los \u00e1rboles, las pel\u00edculas, anime, mangas, libros, tambi\u00e9n me gusta cocinar ",
+            "FOTO_PERFIL": "20250528002232fb8f338cbb98eaf97f4d0882c39a0e9e.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "55",
+            "NOMBRE": "Adriel E. Lorenzo",
+            "USUARIO": "Alorenzo",
+            "EMAIL": "alorenzoporras@gmail.com",
+            "BIOGRAFIA": "Hola soy un alumno del TEC de Pachuca, Estudiante de TICS ",
+            "FOTO_PERFIL": "202504091717563146a3f41281ae6c9fdf190df6e56061.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        },
+        {
+            "ID": "63",
+            "NOMBRE": "Adriel E. Lorenzo Porras",
+            "USUARIO": "Alorenzoeli",
+            "EMAIL": "alorenzoeli@hotmail.com",
+            "BIOGRAFIA": "Hola, soy un lector aficionado de los relatos de terror y suspenso ",
+            "FOTO_PERFIL": "2025042908243925a3f10b150d129e5a222bf8edd1cca6.png",
+            "ACTIVO": "1",
+            "ID_INSTANCIA": "139"
+        }
+    ]
+}

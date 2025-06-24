@@ -36,41 +36,40 @@ npm install
 ionic serve
 
 ```
-## 📦 Compilation for Android 
+## 📦 Compilation for Android
 
-if you want to build the app as an apk file be sure to meet the following requisites 
+If you want to build the app as an APK file, be sure to meet the following requisites:
 
--Install android studio and the SDK platform according to your android version (I used android 15 API 35)
--On Windows, create a system variable called "ANDROID_HOME" and use the path of your instalation as the value like  `C:\Users\angelmmc\AppData\Local\Android\Sdk`
--Install the Java SDK, i used the latest release of the 21 SDK 
--Like the android SDK, create a system variable for java called "JAVA_HOME" with a value like this  `C:\Program Files\Java\jdk-21`
+- Install Android Studio and the SDK platform according to your Android version (I used Android 15 API 35).
+- On Windows, create a system variable called `ANDROID_HOME` and set it to your installation path, e.g., `C:\Users\angelmmc\AppData\Local\Android\Sdk`.
+- Install the Java SDK (I used the latest release, Java SDK 21).
+- Like the Android SDK, create a system variable for Java called `JAVA_HOME` with a value like `C:\Program Files\Java\jdk-21`.
 
-Once you´ve installed the previous componentes and make sure the app runs correctly with ionic serve
+Once you’ve installed the previous components and ensured the app runs correctly with `ionic serve`, follow these steps:
 
 ```bash
-# Add the android platform (you just need to do the first time)
+# Add the Android platform (you just need to do this the first time)
 ionic capacitor add android
 
 # Build the app
 ionic build
 
-# Sync Android with capacitor
+# Sync Android with Capacitor
 ionic capacitor sync android
 
-#Move to the android folder
+# Move to the android folder
 cd android
 
-#Assamble the app using gradlew
+# Assemble the app using gradlew
 ./gradlew assembleDebug
-
 ```
 
-After correcly executing the codes, your apk file should be in the next route `blog-app-ionic\android\app\build\outputs\apk\debug\blog_app.apk`
+After correctly executing these commands, your APK file should be located at:
 
-> **Note:** I did not have the necessary hardware to build the app on iOS and therefore there is only an android tutorial.
+`blog-app-ionic\android\app\build\outputs\apk\debug\blog_app.apk`
 
 ## 📄 License
-This project is under the MIT license, check the LICENSE file for more details.
+This project is under the MIT license. Check the LICENSE file for more details.
 
-Made by Ángel Medina 
-
+Thanks to Dr. Pepper for keeping me hydrated during the development of this project.
+Made by Angelmmc 

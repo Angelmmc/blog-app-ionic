@@ -36,6 +36,12 @@ npm install
 ionic serve
 
 ```
+
+## 👨‍💻 Usage
+
+-To log in the app use the mail `example@hotmail.com` and the password `123456`
+-Note that tapping on a blog or profile redirects to a static route because there is no proper back-end implemented.
+
 ## 📦 Compilation for Android
 
 If you want to build the app as an APK file, be sure to meet the following requisites:

@@ -4,10 +4,11 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Angelmmc/blog-app-ionic.svg)](https://github.com/Angelmmc/blog-app-ionic/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Angelmmc/blog-app-ionic.svg)](https://github.com/Angelmmc/blog-app-ionic/issues)
 
-This repository contains an offline version of the blog mobile application developed during my internship.  
-Built with the **Ionic Vue** framework, It includes all core features and works offline using simulated data, intended for demonstration purposes only.
+## About 
+This is an offline version of the blog mobile application developed during my internship.  
+Built with the **Ionic Vue** framework, It includes all core features and works using simulated data, intended for demonstration purposes only.
 
-## 🚀 Features
+## Features
 
 - Main views such as home, profile, blog, community and saved
 - Options menu when opening a blog
@@ -18,31 +19,37 @@ Built with the **Ionic Vue** framework, It includes all core features and works 
 - Clean and modern design with Ionic components
 - Touch gestures for navigation
 
-## 🛠️ Previous Requirements
+## Getting Started
+
+### Requirements
 
 To execute this project be sure to install node.js on its latest [version](https://nodejs.org/es)
 
-## 📦 Installation
+### Installation
 
+1. Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Angelmmc/blog-app-ionic
+```
+2. Navigate to the project folder
+```bash
 cd blog-app-ionic
-
-# Install dependencies
+```
+3. Install dependencies
+```bash
 npm install
-
-# Run the app
+```
+4. Run the app
+```bash
 ionic serve
-
 ```
 
-## 👨‍💻 Usage
+### Usage
 
--To log in the app use the mail `example@hotmail.com` and the password `123456`
--Note that tapping on a blog or profile redirects to a static route because there is no proper back-end implemented.
+- To log in the app use the mail `example@hotmail.com` and the password `123456`
+- Note that tapping on a blog or profile redirects to a static route because there is no proper back-end implemented.
 
-## 📦 Compilation for Android
+### Compilation for Android
 
 If you want to build the app as an APK file, be sure to meet the following requisites:
 
@@ -53,20 +60,29 @@ If you want to build the app as an APK file, be sure to meet the following requi
 
 Once you’ve installed the previous components and ensured the app runs correctly with `ionic serve`, follow these steps:
 
+1. Add the Android platform (you just need to do this the first time)
+
 ```bash
-# Add the Android platform (you just need to do this the first time)
 ionic capacitor add android
+```
 
-# Build the app
+2. Build the app
+```bash
 ionic build
+```
 
-# Sync Android with Capacitor
+3. Sync Android with Capacitor
+```bash
 ionic capacitor sync android
+```
 
-# Move to the android folder
+4. Move to the android folder
+```bash
 cd android
+```
 
-# Assemble the app using gradlew
+5. Assemble the app using gradlew
+```bash
 ./gradlew assembleDebug
 ```
 

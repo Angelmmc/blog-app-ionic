@@ -95,7 +95,7 @@ After correctly executing these commands, your APK file should be located at:
 
 `blog-app-ionic\android\app\build\outputs\apk\debug\blog_app.apk`
 
-## 📄 License
+## License
 This project is under the MIT license. Check the LICENSE file for more details.
 
 Thanks to Dr. Pepper for keeping me hydrated during the development of this project.

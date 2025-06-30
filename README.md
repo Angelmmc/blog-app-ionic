@@ -49,12 +49,12 @@ npm install
 ionic serve
 ```
 
-### Usage
+## Usage
 
 - To log in the app use the mail `example@hotmail.com` and the password `123456`
 - Note that tapping on a blog or profile redirects to a static route because there is no proper back-end implemented.
 
-### Compilation for Android
+## Compilation for Android
 
 If you want to build the app as an APK file, be sure to meet the following requisites:
 
@@ -96,7 +96,7 @@ After correctly executing these commands, your APK file should be located at:
 `blog-app-ionic\android\app\build\outputs\apk\debug\blog_app.apk`
 
 ## License
-This project is under the MIT license. Check the LICENSE file for more details.
+Distributed under the MIT License. See LICENSE for more information.
 
 Thanks to Dr. Pepper for keeping me hydrated during the development of this project.
 Made by Angelmmc 
